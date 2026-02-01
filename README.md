@@ -3,7 +3,7 @@
 💻 Software Developer  
 🚀 Passionate about building web apps  
 🎨 Love clean UI & good UX<br>
-🌱 Learning new tech every day
+🌱 Learning new tech every day<br>
 💼 Most of my work is in private repositories.
 
 <h3 align="center">🛠 Tech Stack</h3>
