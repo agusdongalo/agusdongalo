@@ -25,5 +25,3 @@ Building modern web applications with a focus on clean UI, good UX, and maintain
 </p>
 
 ---
-
-📌 **Portfolio:** https://donagus.vercel.app  
