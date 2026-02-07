@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Don Galo Agus
 
-**Website Developer**  
+**Website Designer/Developer**  
 Building modern web applications with a focus on clean UI, good UX, and maintainable code.
 
 - 🚀 Passionate about web development  
