@@ -21,7 +21,7 @@ Building modern web applications with a focus on clean UI, good UX, and maintain
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql,figma" />
 </p>
 
 ---
