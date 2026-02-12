@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agusdongalo/agusdongalo/main/wave.svg" width="100%" />
+</p>
+
 ## 👋 Hi, I’m Don Galo Agus
 
 **Web Designer & Developer**  
@@ -33,10 +37,5 @@ Building modern web applications with a focus on clean UI, good UX, and maintain
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=xcode">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=xcode">
 </picture>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agusdongalo/agusdongalo/main/wave.svg" width="100%" />
-</p>
-
 
 
