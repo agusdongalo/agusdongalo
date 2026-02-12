@@ -26,5 +26,11 @@ Building modern web applications with a focus on clean UI, good UX, and maintain
 
 ---
 
-[![Fathur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=react-dark)](https://github.com/agusdongalo)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=react-dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github">
+</picture>
 
