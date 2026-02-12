@@ -30,7 +30,7 @@ Building modern web applications with a focus on clean UI, good UX, and maintain
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=react-dark">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github">
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=xcode">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=xcode">
 </picture>
 
