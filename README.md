@@ -1,37 +1,55 @@
-## 👋 Hi, I’m Don Galo Agus
-
-**Web Designer & Developer**  
-Building modern web applications with a focus on clean UI, good UX, and maintainable code.
-
-- 🚀 Passionate about web development  
-- 🎨 Enjoy crafting clean and user-friendly interfaces  
-- 🌱 Constantly learning new technologies  
-- 🔒 Most of my work is done in private repositories  
-
----
-
-### 🛠 Tech Stack
+<h1 align="center">Hi 👋, I'm Don Galo Agus</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts" />
+  <strong>Web Designer & Frontend Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,laravel,npm" />
+  Building modern web applications focused on clean UI, great UX, and maintainable code.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql,figma" />
+  🚀 Passionate about web development • 🎨 UI/UX Enthusiast • 🌱 Lifelong Learner
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=merko">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=merko">
-</picture>
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel,npm,git,github,vscode,mysql,figma" />
+</p>
 
+---
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/don-galo-agus-288b123ab" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" style="margin: 0 15px;" />
+  </a>
+  <a href="mailto:agusdongalo@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.facebook.com/don.galo.agus.2024" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48px" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.instagram.com/donlicioso/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48px" style="margin: 0 15px;" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong><i>“Design is intelligence made visible.”</i></strong>
+</p>
