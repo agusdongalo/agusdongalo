@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Don Galo Agus</h1>
 
 <p align="center">
-  <strong>Web Designer & Frontend Developer</strong>
+  <strong>Web Designer & Website Developer</strong>
 </p>
 
 <p align="center">
