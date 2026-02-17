@@ -21,6 +21,15 @@
 </p>
 
 ---
+
+## 🧠 Currently Working On
+
+<p align="center">
+  ✅ Electronik Hub ECOMMERCE<br>
+  ✅ Electronik Hub Project Management System
+</p>
+
+---
 ## 📊 Contribution Activity
 
 <p align="center">
