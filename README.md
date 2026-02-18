@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Don Galo Agus</h1>
+<h1 align="center">Hi 👋, I am Don Galo Agus</h1>
 
 <p align="center">
   <strong>Web Designer & Website Developer</strong>
