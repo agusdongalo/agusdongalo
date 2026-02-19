@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=200&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=I%20craft%20modern%20web%20experiences%20with%20a%20focus%20on%20clarity%2C%20motion%2C%20and%20memorable%20visuals.&descSize=18&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=260&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Building%20cool%20things%20with%20code&descSize=18&descAlign=50&descAlignY=70" />
 </p>
 ---
 ## 👋 About Me
