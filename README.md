@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=200&section=header&text=Don%20Galo%20Agus&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Don Galo Agus</h1>
 
 <p align="center">
@@ -59,4 +62,7 @@
 
 <p align="center">
   <strong><i>“Design is intelligence made visible.”</i></strong>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=120&section=footer" />
 </p>
