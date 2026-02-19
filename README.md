@@ -1,9 +1,6 @@
 <p align="center">
-<<<<<<< HEAD
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=220&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Building%20cool%20things%20with%20code&descSize=18&descAlign=50&descAlignY=58&animation=twinkling" />
-=======
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=260&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Building%20cool%20things%20with%20code✨&descSize=18&descAlign=50&descAlignY=70" />
->>>>>>> 9a651ad09b641a4eceb9ae2340a50087dd925365
 </p>
 
 ---
