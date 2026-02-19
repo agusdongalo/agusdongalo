@@ -24,9 +24,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel,npm,git,github,vscode,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,php" />
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,npm,git,github,vscode,mysql,figma"
+</p>
+  
 ---
 
 ## 🧠 Currently Working On
