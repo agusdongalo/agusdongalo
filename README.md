@@ -40,6 +40,36 @@
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+<table border="0px">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=agusdongalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agusdongalo&layout=compact&theme=tokyonight&v=2" />
+    </td>
+  </tr>
+</table>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=agusdongalo&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 🏆 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORENDALEDALUZ&theme=github-dark" />
+
+</div>
+
+---
 ## 📊 Contribution Activity
 
 <p align="center">
