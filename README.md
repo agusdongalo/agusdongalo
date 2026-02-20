@@ -40,7 +40,7 @@
 </p>
 
 ---
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 <table border="0px">
@@ -61,7 +61,7 @@
 
 ---
 
-# 🏆 Activity Graph
+## 🏆 Activity Graph
 
 <div align="center">
 
