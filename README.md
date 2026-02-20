@@ -4,8 +4,6 @@
 </p>
 
 <p align="center">
-    <a href="mailto:sde.agusdonga@gmail.com">
-      <img src="https://img.shields.io/badge/Email-agusdonga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br>
       <img src="https://komarev.com/ghpvc/?username=ark-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
     </a>
 
