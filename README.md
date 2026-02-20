@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=220&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Design%20is%20intelligence%20made%20visible!&descSize=18&descAlign=50&descAlignY=58&animation=blink" />
 </p>
 
+<p align="center">
+    <a href="mailto:sde.agusdonga@gmail.com">
+      <img src="https://img.shields.io/badge/Email-agusdonga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://donagus.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /><br>
+      <img src="https://komarev.com/ghpvc/?username=ark-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    </a>
 
 ---
 
@@ -32,14 +39,6 @@
   
 ---
 
-## 🧠 Currently Working On
-
-<p align="center">
-  ✅ Electronik Hub ECOMMERCE<br>
-  ✅ Electronik Hub Project Management System
-</p>
-
----
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -60,6 +59,25 @@
   <img src="https://streak-stats.demolab.com?user=agusdongalo&theme=tokyonight&hide_border=false" />
 
 </div>
+
+---
+
+## 🏆 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+
+---
+
+## 🚧 Current Projects
+
+### 🛒 Electronik Hub Ecommerce System
+> A full-scale e-commerce platform built for high performance and security.
+
+### 📊 Electronik Hub Project Management System
+> An internal tool designed to streamline workflows, track tasks, and manage resources effectively across development stages.
 
 ---
 
