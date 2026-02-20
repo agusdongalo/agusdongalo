@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=220&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Building%20cool%20things%20with%20code✨&descSize=18&descAlign=50&descAlignY=58&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:0d47a1&height=220&section=header&text=Don%20Galo%20Agus&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Design%20is%20intelligence%20made%20visible!&descSize=18&descAlign=50&descAlignY=58&animation=blink" />
 </p>
 
 
