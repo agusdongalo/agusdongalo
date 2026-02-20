@@ -6,8 +6,6 @@
 <p align="center">
     <a href="mailto:sde.agusdonga@gmail.com">
       <img src="https://img.shields.io/badge/Email-agusdonga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="https://donagus.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /><br>
       <img src="https://komarev.com/ghpvc/?username=ark-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
     </a>
 
@@ -19,7 +17,7 @@
 </p>
 
 <p align="center">
-  Building modern web applications focused on clean UI, great UX, and maintainable code.
+  🏆Building modern web applications focused on clean UI, great UX, and maintainable code.
 </p>
 
 <p align="center">
@@ -73,10 +71,10 @@
 
 ## 🚧 Current Projects
 
-### 🛒 Electronik Hub Ecommerce System
+#### 🛒 Electronik Hub Ecommerce System
 > A full-scale e-commerce platform built for high performance and security.
 
-### 📊 Electronik Hub Project Management System
+#### 📊 Electronik Hub Project Management System
 > An internal tool designed to streamline workflows, track tasks, and manage resources effectively across development stages.
 
 ---
