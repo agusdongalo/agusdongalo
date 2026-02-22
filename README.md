@@ -73,7 +73,7 @@
 >This system is a subscription‑based gym management web app with admin/staff tools and a member portal for managing memberships, payments, subscriptions, attendance, and reports.
 - **Key Features:** Role-based access (Admin & Staff), separate member portal login, member management (with profile photo upload), subscription plans (auto end-date & auto-expiry), payment history (multiple methods), attendance tracking, analytics dashboard (Chart.js), revenue & member reports (CSV export)
 - **Tech:** Laravel (latest), Blade templating, Tailwind CSS, MySQL, Chart.js
-- 🔗 [View Project](https://subscription-based-gym-management-system.onrender.com)
+- **Live Demo:** [View Project](https://subscription-based-gym-management-system.onrender.com)
 
 ### 🛒 Electronik Hub Ecommerce System
 > A full-scale e-commerce platform built for high performance and security.
