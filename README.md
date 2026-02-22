@@ -67,7 +67,7 @@
 
 ---
 
-## 🚧 Current Projects
+## 🚧 Current Projects (Full Stack)
 
 ### 🏋️ Subscription-based Gym Management System
 >A web app for managing gym memberships, payments, attendance, analytics — with admin/staff tools and a member portal.
