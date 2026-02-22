@@ -69,21 +69,49 @@
 
 ## 🚧 Current Projects
 
-### 💻 Subscription-based Gym Management System
->This system is a subscription‑based gym management web app with admin/staff tools and a member portal for managing memberships, payments, subscriptions, attendance, and reports.
-- **Key Features:** Role-based access (Admin & Staff), separate member portal login, member management (with profile photo upload), subscription plans (auto end-date & auto-expiry), payment history (multiple methods), attendance tracking, analytics dashboard (Chart.js), revenue & member reports (CSV export)
-- **Tech:** Laravel (latest), Blade templating, Tailwind CSS, MySQL, Chart.js
+### 🏋️ Subscription-based Gym Management System
+>A web app for managing gym memberships, payments, attendance, analytics — with admin/staff tools and a member portal.
+>
+#### 🚀 Features
+- Role-based access (Admin & Staff)  
+- Member portal login  
+- Member management (photo upload)  
+- Subscription plans with auto end date & expiry  
+- Payment history (multiple methods)  
+- Attendance tracking  
+- Analytics dashboard (Chart.js)  
+- Revenue & member reports (CSV export)
+
+#### 🛠 Tech Stack
+- Laravel, Blade, Tailwind CSS, MySQL, Chart.js
 - **Live Demo:** [View Project](https://subscription-based-gym-management-system.onrender.com)
 
 ### 🛒 Electronik Hub Ecommerce System
 > A full-scale e-commerce platform built for high performance and security.
-- **Key Features:** Secure Two-Factor Authentication (2FA), seamless OAuth integration, dynamic product management, and an automated review moderation system.
-- **Tech:** Laravel, React, MySQL, Composer, NPM
+> 
+#### 🚀 Features
+- Secure Two-Factor Authentication (2FA)
+- Seamless OAuth integration
+- Dynamic product management
+- An automated review moderation system
+  
+#### 🛠 Tech Stack
+- Laravel, React, MySQL, Composer, NPM
 
 ### 📊 Electronik Hub Project Management System
 > An internal tool designed to streamline workflows, track tasks, and manage resources effectively across development stages.
-- **Key Features:** User & Role Management, Project Management, Task Management, Work & Materials Tracking, Financial Management, File & Communication System and System & Backend.
-- **Tech:** React 18, Tailwind CSS, Vite, Node.js with Express.js, JWT, bcrypt, MySQL 8.0, npm
+> 
+#### 🚀 Features
+- User & Role Management
+- Project Management
+- Task Management
+- Work & Materials Tracking
+- Financial Management
+- File & Communication System
+- System & Backend
+  
+#### 🛠 Tech Stack
+- React 18, Tailwind CSS, Vite, Node.js with Express.js, JWT, bcrypt, MySQL 8.0, npm
 
 ---
 
