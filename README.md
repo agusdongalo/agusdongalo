@@ -112,6 +112,7 @@
   
 #### 🛠 Tech Stack
 - React 18, Tailwind CSS, Vite, Node.js with Express.js, JWT, bcrypt, MySQL 8.0, npm
+- **Live Demo:** [View Project](https://pms.ehub.ph)
 
 ---
 
