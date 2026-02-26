@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 <p align="center">
-  <strong>Web Designer & Website Developer</strong>
+  <strong>Web Designer & Full Stack Developer</strong>
 </p>
 
 <p align="center">
