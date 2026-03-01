@@ -67,24 +67,7 @@
 
 ---
 
-## 🚧 Current Projects (Full Stack)
-
-### 🏋️ Subscription-based Gym Management System
->A web app for managing gym memberships, payments, attendance, analytics — with admin/staff tools and a member portal.
->
-#### 🚀 Features
-- Role-based access (Admin & Staff)  
-- Member portal login  
-- Member management (photo upload)  
-- Subscription plans with auto end date & expiry  
-- Payment history (multiple methods)  
-- Attendance tracking  
-- Analytics dashboard (Chart.js)  
-- Revenue & member reports (CSV export)
-
-#### 🛠 Tech Stack
-- Laravel, Blade, Tailwind CSS, MySQL, Chart.js
-- **Live Demo:** [View Project](https://subscription-based-gym-management-system.onrender.com)
+## 🚧 Current Projects (Private Repo)
 
 ### 🛒 Electronik Hub Ecommerce System
 > A full-scale e-commerce platform built for high performance and security.
