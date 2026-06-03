@@ -41,13 +41,6 @@
 
 ---
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=agusdongalo&theme=tokyonight&hide_border=false" />
-
-</div>
-
----
-
 ## 🏆 Contribution Activity
 
 <p align="center">
