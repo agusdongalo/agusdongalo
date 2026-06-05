@@ -41,14 +41,6 @@
 
 ---
 
-## 🏆 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusdongalo&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-
----
 
 ## 🚧 Work Experience
 ### 🧩 Full Stack Develover - Electronik Hub | January 2026 - Present
@@ -60,8 +52,6 @@
 ### 📊 Electronik Hub Project Management System (Contributor)
 > An internal tool designed to streamline workflows, track tasks, and manage resources effectively across development stages.
 >
- 
-- **Live Demo:** [View Project](https://pms.ehub.ph)
 
 ---
 
