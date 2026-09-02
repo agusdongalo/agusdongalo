@@ -25,23 +25,6 @@
   
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<table border="0px">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=agusdongalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agusdongalo&layout=compact&theme=tokyonight&v=2" />
-    </td>
-  </tr>
-</table>
-
----
-
-
 ## 🚧 Work Experience
 ### 🧩 Full Stack Develover - Electronik Hub | January 2026 - Present
 ### 🛒 Electronik Hub Ecommerce System (Contributor)
